@@ -21,6 +21,7 @@
 <br>
 <br>
 <h2 class="login_form_h2">USERPICK</h2>
+<h2 class="login_form_h2">USERPICK</h2>
 <br>
 <br>
 	<div class="bbs_list">
